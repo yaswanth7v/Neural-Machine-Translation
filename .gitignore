@@ -1,0 +1,5 @@
+__pycache__
+model_fra-eng_1.pth
+model_fra-eng_2.pth
+tokenizer_fr.json
+tokenizer_eng.json
